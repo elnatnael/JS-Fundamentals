@@ -11,8 +11,7 @@ if (count === 0) {
     console.log("No argument");
 } else if (count === 1) {
     console.log(args[0]);
-} else {
-    for (let i = 0; i < count; i++) {
-        console.log(`  Argument ${i + 1}: ${args[i]}`);
-    }
+}else {
+    // Add this missing part for multiple arguments
+    console.log(args[0]);
 }
