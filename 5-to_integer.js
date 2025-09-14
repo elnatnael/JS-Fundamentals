@@ -13,5 +13,5 @@ if (isNaN(inputNumber)) {
 }
 
 //console.log("Original string:", args[0]);
-console.log("My number: ", inputNumber);
+console.log("My number:", inputNumber);
 
