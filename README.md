@@ -1,0 +1,1 @@
+This is fundamental javascript practice for web development.
