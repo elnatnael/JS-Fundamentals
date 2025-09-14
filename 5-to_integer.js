@@ -12,6 +12,6 @@ if (isNaN(inputNumber)) {
     process.exit(1);
 }
 
-console.log("Original string:", args[0]);
+//console.log("Original string:", args[0]);
 console.log("My number: ", inputNumber);
 
